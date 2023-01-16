@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Launch CheckerApplication",
+            "request": "launch",
+            "mainClass": "unsw.crown.CheckerApplication",
+            "vmArgs": "--module-path ./lib --add-modules javafx.controls,javafx.fxml,javafx.media -enableassertions"
+        }
+    ]
+}
